@@ -14,6 +14,7 @@ class Principal extends StatelessWidget {
           children: [
             Text("Hola Mundo"),
             Text("Servicio Nacional de Aprendizaje - SENA"),
+            Text("Centro de Comercio y Servicios")
           ],
         ),
         debugShowCheckedModeBanner: false);
